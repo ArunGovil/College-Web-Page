@@ -80,5 +80,6 @@
 }
 #imgguru
 {
-  padding-left: 16.2cm;
+  display: block;
+  margin: auto;
 }
