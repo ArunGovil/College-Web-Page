@@ -60,9 +60,25 @@
     width: 700px;
   }
 }
-
-#bg{
-  align-items: center;
-  width: 300px;
-  height: 230px;
+#para
+{
+  font-family: "Poppins", sans-serif;
+  color: #051a47;
+  text-align: center;
+}
+#para2
+{
+  font-family: "Poppins", sans-serif;
+  color: #051a47;
+  text-align: center;
+}
+#about
+{
+  font-family: "Varela Round", sans-serif;
+  text-align: center;
+  color: #051a47;
+}
+#imgguru
+{
+  padding-left: 16.2cm;
 }
